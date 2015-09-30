@@ -1,5 +1,5 @@
 # Pointing Outside The Keyboard Pane...
-![Outside Pane](sleenker.github.com/Numeric_Login/appearance/Out.jpg)
+![Outside Pane](https://github.com/Sleenker/Numeric_Login/blob/master/appearance/Out.jpg)
 
 # Pointing Inside The Keyboard Pane...
-![Inside Pane](sleenker.github.com/Numeric_Login/appearance/In.jpg)
+![Inside Pane](https://github.com/Sleenker/Numeric_Login/blob/master/appearance/In.jpg)
