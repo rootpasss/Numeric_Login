@@ -1,5 +1,5 @@
 # Pointing Outside The Keyboard Pane...
-![Outside Pane](https://goo.gl/photos/vQZqgSnqVf9MGKka8)
+![Outside Pane](https://goo.gl/photos/vQZqgSnqVf9MGKka8.jpg)
 
 # Pointing Inside The Keyboard Pane...
-![Inside Pane](https://goo.gl/photos/1W97BHS64gG3Sdz68)
+![Inside Pane](https://goo.gl/photos/1W97BHS64gG3Sdz68.jpg)
